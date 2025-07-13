@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Map/Gameplay.umap",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_ThirdPersonShooterGameMode.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_Gun.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Meshes/Wraith_Skeleton.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_ShooterAIController.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Animations/Player/ABP_PlayerCharacter.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Animations/Player/BS_Locomotion.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Animations/Enemy/BT_EnemyAI.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Animations/Enemy/BB_EnemyAI.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_KillEmAllGameMode.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/UI/WBP_LoseScreen.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/UI/WBP_WinScreen.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/SFX/A_RifleShot_Cue.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/SFX/A_RifleImpact_Cue.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/SFX/ATT_Default.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/UI/WBP_HUD.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/0.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_ShooterCharacter.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Blueprints/BP_PlayerShooterCharacter.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Animations/ABP_PlayerCharacter.uasset",
+				"C:/Users/sayan/Projects/ThirdPersonShooter/Content/Animations/BS_Locomotion.uasset"
+			]
+		}
+	]
+}

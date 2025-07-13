@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPersonShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPersonShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPersonShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThirdPersonShooter">
+      <UniqueIdentifier>{8DCF27F5-7A3D-368B-9C12-22003AAFFFA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooter.Build.cs">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooter.cpp">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooter.h">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\ThirdPersonShooter\Private">
+      <UniqueIdentifier>{8A5B6751-2FF4-31EC-84CB-C9ED3F41B2FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ThirdPersonShooter\Private\Controller">
+      <UniqueIdentifier>{2385079E-C575-30C2-8329-BC11F0FB616B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Controller\ThirdPersonPlayerController.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Controller</Filter>
+    </ClCompile>
+    <Filter Include="Source\ThirdPersonShooter\Private\Enemy">
+      <UniqueIdentifier>{94ED054C-EC85-3944-B9CE-A0D1149C7410}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Enemy\BTService_PlayerLocation.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Enemy\BTService_PlayerLocationIfSeen.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Enemy\BTTask_ClearBlackboardValue.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Enemy\BTTask_Shoot.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Enemy\ShooterAIController.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Enemy</Filter>
+    </ClCompile>
+    <Filter Include="Source\ThirdPersonShooter\Private\GameMode">
+      <UniqueIdentifier>{7E17C87B-6B12-3D2A-B1AA-18C4CCCDEF6C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\GameMode\KillEmAllGameMode.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\GameMode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\GameMode\ThirdPersonShooterGameModeBase.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\GameMode</Filter>
+    </ClCompile>
+    <Filter Include="Source\ThirdPersonShooter\Private\Player">
+      <UniqueIdentifier>{5073895D-DB1E-3502-BEB1-E7D8FCA2EC40}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Player\PlayerCharacter.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\ThirdPersonShooter\Private\Weapon">
+      <UniqueIdentifier>{4648A4ED-4FB5-3A70-AA47-E7191EEE9536}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\Private\Weapon\Gun.cpp">
+      <Filter>Source\ThirdPersonShooter\Private\Weapon</Filter>
+    </ClCompile>
+    <Filter Include="Source\ThirdPersonShooter\Public">
+      <UniqueIdentifier>{7F005DE6-9917-324A-8913-A1054FA4E5A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ThirdPersonShooter\Public\Controller">
+      <UniqueIdentifier>{7D3A0317-ECE4-33A9-BB45-5A3BFA300FDF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Controller\ThirdPersonPlayerController.h">
+      <Filter>Source\ThirdPersonShooter\Public\Controller</Filter>
+    </ClInclude>
+    <Filter Include="Source\ThirdPersonShooter\Public\Enemy">
+      <UniqueIdentifier>{FCA32E49-11E1-3503-913E-A22791CE7B3F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Enemy\BTService_PlayerLocation.h">
+      <Filter>Source\ThirdPersonShooter\Public\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Enemy\BTService_PlayerLocationIfSeen.h">
+      <Filter>Source\ThirdPersonShooter\Public\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Enemy\BTTask_ClearBlackboardValue.h">
+      <Filter>Source\ThirdPersonShooter\Public\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Enemy\BTTask_Shoot.h">
+      <Filter>Source\ThirdPersonShooter\Public\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Enemy\ShooterAIController.h">
+      <Filter>Source\ThirdPersonShooter\Public\Enemy</Filter>
+    </ClInclude>
+    <Filter Include="Source\ThirdPersonShooter\Public\GameMode">
+      <UniqueIdentifier>{B0ACC4D6-14F6-3258-93D6-20F4C6BE7E4E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\GameMode\KillEmAllGameMode.h">
+      <Filter>Source\ThirdPersonShooter\Public\GameMode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\GameMode\ThirdPersonShooterGameModeBase.h">
+      <Filter>Source\ThirdPersonShooter\Public\GameMode</Filter>
+    </ClInclude>
+    <Filter Include="Source\ThirdPersonShooter\Public\Player">
+      <UniqueIdentifier>{E453FE0C-142C-34C1-9C4C-2EBE66634CD6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Player\PlayerCharacter.h">
+      <Filter>Source\ThirdPersonShooter\Public\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\ThirdPersonShooter\Public\Weapon">
+      <UniqueIdentifier>{AB891DBA-81F2-3C29-A7CB-AB49425D5A40}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\Public\Weapon\Gun.h">
+      <Filter>Source\ThirdPersonShooter\Public\Weapon</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
