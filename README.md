@@ -83,7 +83,7 @@ Enter a combat arena where every bullet counts and enemy AI adapts to your plays
 > This project demonstrates solid understanding of **game architecture**, **AI programming**, and **performance optimization**, delivering an engaging tactical shooter experience.
 
 [![Gameplay Video](https://img.youtube.com/vi/uoAMMdCCWAQ/maxresdefault.jpg)](https://youtu.be/uoAMMdCCWAQ)
-### [Watch this video on YouTube](https://youtu.be/uoAMMdCCWAQ)
+### [Gameplay Video](https://youtu.be/uoAMMdCCWAQ)
 
 <img width="1952" height="1048" alt="Image" src="https://github.com/user-attachments/assets/5f886570-76d5-4697-9ed3-f115a28dce1d" />
 
